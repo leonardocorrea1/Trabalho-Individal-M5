@@ -10,7 +10,7 @@
   
 <h1>Proposta do Resília:<h1/>
   
-<h5Utilizar o Node e elaborar um código capaz receber uma lista de propriedades de CSS (ex: background-color, font-size, text-align) e devolver a lista ordenada de A-Z.<h5/>
+<h5>Utilizar o Node e elaborar um código capaz receber uma lista de propriedades de CSS (ex: background-color, font-size, text-align) e devolver a lista ordenada de A-Z.<h5/>
 
 <h5>➔ O código deve rodar até o usuário digitar “SAIR”, sendo impresso no terminal via console a lista das propriedades ordenadas de A-Z.<h5/>
 
