@@ -1,7 +1,8 @@
 <h1>Trabalho-Individual-M5<h1/>
 
 
-![print](https://user-images.githubusercontent.com/47828514/225775929-ecae8ba7-e038-4cd3-9d05-f4c4c9f9a94a.png)
+![terminalprint](https://user-images.githubusercontent.com/47828514/226144198-400eae80-3612-4092-b3a2-719b82c89922.png)
+
 
   
 <h1>Lista ordenada com NodeJS<h1/>
